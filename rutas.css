@@ -1,0 +1,53 @@
+div#header h1.title {
+  position: fixed;
+  top: 0;
+  left: 1em;
+}
+#TOC {
+  position: fixed;
+  top: 5em;
+  left: 0;
+}
+#TOC li {
+  list-style: none;
+  width: 9em;
+  text-align: center;
+}
+#TOC li:hover {
+  background: #17B890;
+}
+#TOC ul {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  padding-inline-start: 0;
+}
+body h2 {
+  position: relative;
+  text-align: right;
+  width: 10em;
+}
+body p {
+  position: relative;
+  left: 10em;
+  width: auto;
+}
+html {
+  background: linear-gradient(90deg, #747C92 9em, #FDFDFD 9em);
+  color: #1A1A1A;
+  line-height: 1.5;
+  font-family: Georgia, serif;
+  font-size: 20px;
+}
+body {
+  text-rendering: optimizeLegibility;
+  font-kerning: normal;
+  width: calc(100% - 10em);
+  margin: 0;
+}
+a {
+  color: #1a1a1a;
+  text-decoration: none;
+}
+body p a:hover {
+  text-decoration: underline;
+}
