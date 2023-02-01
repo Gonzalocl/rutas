@@ -1,4 +1,4 @@
-div#header h1.title {
+header#title-block-header h1.title {
   position: fixed;
   top: 0;
   left: 1em;
