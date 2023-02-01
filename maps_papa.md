@@ -1,6 +1,6 @@
 ---
 title: Rutas
-css: https://gonzalocl1024.pythonanywhere.com/static_served/rutas.css
+css: rutas.css
 ---
 
 <!--[](){target=_blank}<br>-->
@@ -118,3 +118,4 @@ css: https://gonzalocl1024.pythonanywhere.com/static_served/rutas.css
 [14/10/18 Calblanque](https://drive.google.com/open?id=1gnWxvLuzf3oNmE8wYENxxHL88IlvqTYQ&usp=sharing){target=_blank}<br>
 [7/10/18 Salinas San Pedro del Pinatar y playa de la Llana](https://drive.google.com/open?id=1O1kcgXi4FLrUNguxtoI7qsubqIyywJJL&usp=sharing){target=_blank}<br>
 [30/9/18 Cabezo de la Fuente y Calblanque](https://drive.google.com/open?id=1tBCZDhQxF6PtDgiTAWn4rDeK-YluFS8Q&usp=sharing){target=_blank}<br>
+
