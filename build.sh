@@ -1,3 +1,3 @@
 #!/bin/bash
-pandoc -s --toc maps_papa.md -o index.html
+pandoc -s --toc rutas.md -o index.html
 
