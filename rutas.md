@@ -1,6 +1,7 @@
 ---
 title: Rutas
 css: rutas.css
+header-includes: <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7938175907104338" crossorigin="anonymous"></script>
 ---
 
 <!-- Google tag (gtag.js) -->
@@ -12,7 +13,7 @@ css: rutas.css
 
   gtag('config', 'G-VXZ3MPFY45');
 </script>
-
+22
 <!--[](){target=_blank}<br>-->
 
 ## 2022
