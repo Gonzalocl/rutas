@@ -13,7 +13,7 @@ header-includes: <script async src="https://pagead2.googlesyndication.com/pagead
 
   gtag('config', 'G-VXZ3MPFY45');
 </script>
-22
+
 <!--[](){target=_blank}<br>-->
 
 ## 2022
